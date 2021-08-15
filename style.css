@@ -75,13 +75,15 @@ h2{
 }
 #lettersDiv{
     padding: 0px 30px;
-   
+    text-align: center;
 }
 #wordsDiv{
     padding: 0px 30px;
+    text-align: center;
 }
 
 span{
+    
     font-size: 0.9em;
     line-height: 1.0em;
     
